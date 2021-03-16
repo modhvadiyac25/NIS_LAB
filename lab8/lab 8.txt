@@ -1,0 +1,19 @@
+Des round function F
+
+some tables are required
+first step
+
+what are the inputs ?
+
+how many inputs are what is the size of input : - 32 bit and 2 inputs
+
+L     R
+32   32 
+
+
+1. expantion : - 32 to 48 bit -> make 2d array of index
+take input of table no 6.6
+
+  
+
+
